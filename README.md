@@ -1,7 +1,7 @@
 
 ## JavaScript keyboard events help you capture user interactions with the keyboard.  
 ## If you want to try then click on the link below.
-### [Flip Text](https://sagar-sharma-7.github.io/flip-text/)
+### [Key Codes](https://sagar-sharma-7.github.io/key-codes/)
 
 <hr>
 
